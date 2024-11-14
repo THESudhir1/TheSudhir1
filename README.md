@@ -6,9 +6,7 @@ I'm a dedicated developer focused on creating efficient, responsive, and user-fr
 ---
 
 ### 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sudhir-singh-45685a241)
 
 ---
 
@@ -26,7 +24,6 @@ I'm a dedicated developer focused on creating efficient, responsive, and user-fr
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)
@@ -34,12 +31,12 @@ I'm a dedicated developer focused on creating efficient, responsive, and user-fr
 ---
 
 ### 📊 GitHub Stats:
-![Atil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=THESudhir1&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=THESudhir1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
